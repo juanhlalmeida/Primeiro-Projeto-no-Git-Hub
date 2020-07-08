@@ -1,0 +1,7 @@
+teste git comandos
+git init
+git add
+git status
+git log
+ <html>
+www.google.com

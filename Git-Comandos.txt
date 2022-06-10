@@ -1,8 +1,9 @@
-teste git comandos
+Basic git comandos
 git init
 git add
 git status
 git log
+
  <Lista de Comandos Git>
  
 (https://github.com/juanhlalmeida/Primeiro-Projeto-no-Git-Hub.git)

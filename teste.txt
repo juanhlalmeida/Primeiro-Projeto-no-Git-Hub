@@ -3,5 +3,5 @@ git init
 git add
 git status
 git log
- <html>
-www.google.com
+ <Lista de Comandos Git>
+(https://github.com/juanhlalmeida/Primeiro-Projeto-no-Git-Hub.git)
